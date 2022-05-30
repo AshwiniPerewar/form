@@ -1,0 +1,28 @@
+.form
+{
+    width: 30%;
+    height: 400px;
+    margin: auto;
+    margin-top: 60px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.form>form>div{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-right: 30px;
+}
+
+/* .profile
+{
+margin-left: -15px;
+margin-right: 110px;
+} */
+
+
+button
+{
+    margin-top: 30px;
+}

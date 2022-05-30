@@ -1,0 +1,24 @@
+{
+  "userData": [
+    {
+      "name": "Ashwini Subhash Perewar",
+      "age": "26",
+      "address": "balaji gallie umri tq umri dist nanded",
+      "department": "it",
+      "salary": "600000",
+      "ismarried": true,
+      "photo": "C:\\fakepath\\capid (2).jpg",
+      "id": 1
+    },
+    {
+      "name": "subhash perewar",
+      "age": "50",
+      "address": "balaji gallie umri tq umri dist nanded",
+      "department": "com",
+      "salary": "600000",
+      "ismarried": true,
+      "photo": "C:\\fakepath\\atm.jpg",
+      "id": 2
+    }
+  ]
+}
